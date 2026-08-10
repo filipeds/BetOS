@@ -1,4 +1,4 @@
-# BetOS
+# BetOS Sistema de Gerenciamento e Controle de Ordens de Serviço
 
 > Projeto Jornada de Aprendizagem 2025-2 - UniSenai Londrina - Eng. Software - 6P
 
